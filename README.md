@@ -1,3 +1,6 @@
+Nama : Addnan Nurwakhid
+Nim  : 19.11.2736
+
 # StudiKasusUAS
 Aplikasi ini bertujuan seperti simulasi pembelian makanan dan minuman dengan menggunakan promo/voucher.
 # How Does It Works? 
